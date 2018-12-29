@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1CCE581821D632A100866495 /* CIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CCE581821D632A100866495 /* CoreImageNeutralTemperatureDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreImageNeutralTemperatureDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CCE581B21D632A100866495 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CCE581D21D632A100866495 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1CCE582021D632A100866495 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		1CCE581921D632A100866495 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1CCE581821D632A100866495 /* CIDemo.app */,
+				1CCE581821D632A100866495 /* CoreImageNeutralTemperatureDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1CCE581721D632A100866495 /* CIDemo */ = {
+		1CCE581721D632A100866495 /* CoreImageNeutralTemperatureDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1CCE582A21D632A300866495 /* Build configuration list for PBXNativeTarget "CIDemo" */;
+			buildConfigurationList = 1CCE582A21D632A300866495 /* Build configuration list for PBXNativeTarget "CoreImageNeutralTemperatureDemo" */;
 			buildPhases = (
 				1CCE581421D632A100866495 /* Sources */,
 				1CCE581521D632A100866495 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = CIDemo;
+			name = CoreImageNeutralTemperatureDemo;
 			productName = CIDemo;
-			productReference = 1CCE581821D632A100866495 /* CIDemo.app */;
+			productReference = 1CCE581821D632A100866495 /* CoreImageNeutralTemperatureDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1CCE581321D632A100866495 /* Build configuration list for PBXProject "CIDemo" */;
+			buildConfigurationList = 1CCE581321D632A100866495 /* Build configuration list for PBXProject "CoreImageNeutralTemperatureDemo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1CCE581721D632A100866495 /* CIDemo */,
+				1CCE581721D632A100866495 /* CoreImageNeutralTemperatureDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -316,7 +316,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1CCE581321D632A100866495 /* Build configuration list for PBXProject "CIDemo" */ = {
+		1CCE581321D632A100866495 /* Build configuration list for PBXProject "CoreImageNeutralTemperatureDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CCE582821D632A300866495 /* Debug */,
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1CCE582A21D632A300866495 /* Build configuration list for PBXNativeTarget "CIDemo" */ = {
+		1CCE582A21D632A300866495 /* Build configuration list for PBXNativeTarget "CoreImageNeutralTemperatureDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CCE582B21D632A300866495 /* Debug */,
