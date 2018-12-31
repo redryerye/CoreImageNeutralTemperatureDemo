@@ -1,5 +1,5 @@
 # Demo
-![Uploading gif_coreImage.gif…]()
+![](gif_coreImage.gif)
 
 # CoreImageNeutralTemperatureDemo
 This is a demo of Neutral Temperature in Core Image. Works on iOS.
